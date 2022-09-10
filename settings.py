@@ -1,0 +1,5 @@
+GRID_SIZE = 3  # number of tiles
+CELL_HEIGHT = 5
+CELL_WIDTH = CELL_HEIGHT * 2
+DEFAULT_PLAYERS = ['X', 'O']
+BG_COLOR = '#add9f0'
